@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// 运动员和裁判员的案例, 运动员进入赛道, 准备就绪, 通知裁判员
 func main() {
 	c := sync.NewCond(&sync.Mutex{})
 	var ready int
