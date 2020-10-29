@@ -21,7 +21,7 @@ Welcome to Goup!
                                                                                             
 Goup and Go will be located at:                                                             
                                                                                             
-  /home/vagrant/.go                                                                         
+/home/vagrant/.go
                                                                                             
 The Goup command will be located at:                                                        
                                                                                             
